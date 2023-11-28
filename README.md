@@ -2,6 +2,12 @@
 
 Website ini dibangun dengan php dan database menggunakan postgresql, untuk database bisa kamu lihat di folder database, dimana ada dua file csv dan satu file sql, silahkan pilih salah satu, untuk nama database nya yaitu db_guppykita
 
+## Setting PHP untuk PostgreSQL
+Pada bagian XAMPP, silahkan klik config dan klik php.ini
+![Screenshot (492)](https://github.com/huseinibnu/website_guppy_kita/assets/114596566/d5bfed8a-5ec5-420b-af7d-033dad54bd12)
+kemudian cari kalimat seperti gambar dibawah dan sesuaikan dan restart php kamu
+![Screenshot (493)](https://github.com/huseinibnu/website_guppy_kita/assets/114596566/c46dafea-bcd3-46f2-9217-4e4ceb6a69fd)
+
 ## Halaman Login
 ![Screenshot (494)](https://github.com/huseinibnu/website_guppy_kita/assets/114596566/99ea11aa-663f-48fc-b302-9f635707e6c1)
 
